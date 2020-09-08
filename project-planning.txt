@@ -2,5 +2,6 @@ PROJECT PLANNING :
 - Javascript
   * ES6
   * Framework
+- Data Structure
 - PHP Framework
 - Library
