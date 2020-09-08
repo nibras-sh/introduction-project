@@ -3,3 +3,5 @@ GIT LEARN RESOLUTION :
 - Learn Branch
 - Create Project
 - Push and Pull Commit
+- Install GITBASH
+- Collaborate project
