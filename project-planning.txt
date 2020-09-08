@@ -1,0 +1,6 @@
+PROJECT PLANNING :
+- Javascript
+  * ES6
+  * Framework
+- PHP Framework
+- Library
