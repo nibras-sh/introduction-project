@@ -1,0 +1,5 @@
+GIT LEARN RESOLUTION :
+- Learn GIT
+- Learn Branch
+- Create Project
+- Push and Pull Commit
