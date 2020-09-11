@@ -3,6 +3,7 @@ PROJECT PLANNING :
   * ES6
   * Framework
   ^ Vue
+  ^ React
 - Data Structure
 - PHP Framework
  ^ Laravel
