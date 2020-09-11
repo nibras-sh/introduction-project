@@ -2,8 +2,10 @@ PROJECT PLANNING :
 - Javascript
   * ES6
   * Framework
-  ^ Angular
+  ^ Vue
   ^ React
+- Data Structure
 - PHP Framework
-  ^ Laravel
+ ^ Laravel
 - Library
+- Python
